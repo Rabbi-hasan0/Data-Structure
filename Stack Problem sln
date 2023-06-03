@@ -1,0 +1,47 @@
+// Rabbi Hasan (BUBT)
+#include<bits/stdc++.h>
+#include<stack>
+#include <queue>
+#include <algorithm>
+using namespace std;
+int main()
+{
+    int t;cin>>t;
+    for(int i=1;i<=t;i++)
+    {
+        string s;
+        stack<string> st1;
+        stack<string> st2;
+        cout<<"Case "<<i<<":"<<endl;
+        string s1="http://www.lightoj.com/";
+        st1.push(s1);
+        while(cin>>s1)
+        {
+            if(s1=="QUIT") break;
+            if(s1=="VISIT")
+            {
+                cin>>s1;
+                st1.push(s1);
+                cout<<s1<<endl;
+                while(!st2.empty()) st2.pop();
+            }
+            else if(s1=="BACK" && st1.size()>1)
+            {
+                s=st1.top();
+                st1.pop();
+                cout<<st1.top()<<endl;
+                st2.push(s);
+            }
+
+            else if(s1=="FORWARD" && !st2.empty())
+            {
+                st1.push(st2.top());
+                cout<<st2.top()<<endl;
+                st2.pop();
+            }
+            else cout<<"Ignored\n";
+        }
+    }
+
+    return 0;
+}
