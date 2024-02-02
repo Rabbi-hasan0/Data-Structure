@@ -1,0 +1,7 @@
+/* There are three types of segment tree;
+   -> Build segment tree
+   -> Query segment tree
+   -> Update segment tree
+*/
+
+//-> Build:
