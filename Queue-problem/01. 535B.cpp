@@ -1,3 +1,8 @@
+/* complexity: 
+   --> 2 ^ (log10(n))
+   --> log10(n) = 8       if n = 10^9
+   --> 2 ^ 8 = 256
+*/
 #include <bits/stdc++.h>
 #define print(x) cout << x << '\n'
 #define int long long
