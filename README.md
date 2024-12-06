@@ -1,9 +1,6 @@
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Common Data Structures</title>
 </head>
 <body>
     <h1>Common Data Structures</h1>
@@ -30,4 +27,3 @@
         <li>Red-Black Tree</li>
     </ul>
 </body>
-</html>
