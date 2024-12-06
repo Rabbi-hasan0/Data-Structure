@@ -1,22 +1,33 @@
-
-# Common Data Structures
-1. Array  
-2. Linked List  
-3. Stack  
-4. Queue  
-5. Deque (Double-Ended Queue)  
-6. Hash Table / Hash Map  
-7. Binary Tree  
-8. Binary Search Tree (BST)  
-9. Heap (Min-Heap, Max-Heap)  
-10. Trie (Prefix Tree)  
-11. Graph (Adjacency List, Adjacency Matrix)  
-12. Set  
-13. Map  
-14. Priority Queue  
-15. Segment Tree  
-16. Fenwick Tree (Binary Indexed Tree)  
-17. Disjoint Set (Union-Find)  
-18. B-Tree and B+ Tree  
-19. AVL Tree  
-20. Red-Black Tree
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Common Data Structures</title>
+</head>
+<body>
+    <h1>Common Data Structures</h1>
+    <ul>
+        <li>Array</li>
+        <li>Linked List</li>
+        <li>Stack</li>
+        <li>Queue</li>
+        <li>Deque (Double-Ended Queue)</li>
+        <li>Hash Table / Hash Map</li>
+        <li>Binary Tree</li>
+        <li>Binary Search Tree (BST)</li>
+        <li>Heap (Min-Heap, Max-Heap)</li>
+        <li>Trie (Prefix Tree)</li>
+        <li>Graph (Adjacency List, Adjacency Matrix)</li>
+        <li>Set</li>
+        <li>Map</li>
+        <li>Priority Queue</li>
+        <li>Segment Tree</li>
+        <li>Fenwick Tree (Binary Indexed Tree)</li>
+        <li>Disjoint Set (Union-Find)</li>
+        <li>B-Tree and B+ Tree</li>
+        <li>AVL Tree</li>
+        <li>Red-Black Tree</li>
+    </ul>
+</body>
+</html>
