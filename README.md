@@ -6,24 +6,21 @@
     <h1>Common Data Structures</h1>
     <ul>
         <li>Array</li>
+        <li>Set</li>
+        <li>Map</li>
         <li>Linked List</li>
         <li>Stack</li>
         <li>Queue</li>
+        <li>Priority Queue</li>
         <li>Deque (Double-Ended Queue)</li>
-        <li>Hash Table / Hash Map</li>
         <li>Binary Tree</li>
         <li>Binary Search Tree (BST)</li>
-        <li>Heap (Min-Heap, Max-Heap)</li>
-        <li>Trie (Prefix Tree)</li>
-        <li>Graph (Adjacency List, Adjacency Matrix)</li>
-        <li>Set</li>
-        <li>Map</li>
-        <li>Priority Queue</li>
         <li>Segment Tree</li>
+        <li>Heap (Min-Heap, Max-Heap)</li>
         <li>Fenwick Tree (Binary Indexed Tree)</li>
-        <li>Disjoint Set (Union-Find)</li>
         <li>B-Tree and B+ Tree</li>
-        <li>AVL Tree</li>
-        <li>Red-Black Tree</li>
+        <li>Graph (Adjacency List, Adjacency Matrix)</li>
+        <li>Disjoint Set (Union-Find)</li>
+        <li>Hash Table / Hash Map</li>
     </ul>
 </body>
