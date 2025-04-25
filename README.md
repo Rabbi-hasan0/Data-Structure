@@ -5,7 +5,7 @@
 <body>
     <h1>Common Data Structures</h1>
     <ul>
-        <li>Array&nbspok </li>
+        <li>Array</li>
         <li>Set</li>
         <li>Map</li>
         <li>Linked List</li>
